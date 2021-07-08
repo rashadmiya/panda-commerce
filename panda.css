@@ -3,3 +3,34 @@
     margin: 0;
     box-sizing: border-box;
 }
+.orange-background{
+    background-color: #fceae8;
+}
+.price-heading{
+    color: #FF136F;
+}
+.buy-button{
+    background-color: #ff419c;
+    color:#ffffff;
+}
+.cat1, .cat2, .cat3{
+    /* margin: 1em; */
+    color: #fff;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: palevioletred;
+}
+.cat3{
+    background-color: blue;
+}
+.card {
+    width: 32%;
+
+}
+#contact{
+    background-color: #fceae8;
+    height: 300px;
+}
